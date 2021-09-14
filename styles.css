@@ -1,14 +1,14 @@
 body {
-  background-color:white;
+  background-color:lavender;
 }
 a {
-  color: #bf5700;
+  color: #bf5702;
 }
 a:link {
-  color: #bf5700;
+  color: #bf5702;
 }
 a:hover {
-  color: #bf5700;
+  color: #bf5702;
 }
 h1 {
   font-size: 32px;
